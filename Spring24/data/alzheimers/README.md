@@ -21,5 +21,3 @@ file 172 samples for training and 74 for testing.  The labels are given by
 1 (AD patient) and -1 (MCI patient). 
 
 
-## Sparse Logistic Regression 
- 
